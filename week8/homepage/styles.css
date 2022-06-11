@@ -1,0 +1,114 @@
+body {
+    background-color: lightgrey;
+    text-align:center;
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+    background-color:DarkSeaGreen;
+    margin-left: 20px;
+    margin-right:20px;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid DarkSeaGreen;
+    border-radius: 12px;
+    padding: 5px;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+
+  .classe1 {
+    background: lightgreen;
+  }
+
+  #id1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+  .classe{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    right: 10px;
+    bottom: 90px;
+    padding: 5px;
+  }
+  #page1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    right: 10px;
+    bottom: 70px;
+    padding: 5px;
+  }
+  #page2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    right: 10px;
+    bottom: 40px;
+    padding: 5px;
+  }
+  #page3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    padding: 5px;
+  }
+
+  .classdefault{
+    color: white;
+    text-align: center;
+    background-color:DarkSeaGreen;
+    margin-left: 20px;
+    margin-right:20px;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid DarkSeaGreen;
+    border-radius: 12px;
+    padding: 5px;
+  }
+
+
+  #navegacao {
+    width: 100%;
+    height: 100px;
+    background: darkGreen;
+  }
+
+
+  #logo {
+
+    display: block;
+    width: 20%;
+    float: left;
+    margin-left: -10px;
+    margin-top: 20px;
+  }
+
+  #pesquisa {
+    position: absolute;
+    width: 20%;
+    border: 2px solid gray;
+    float: left;
+    margin-left: 40%;
+    top: 20px;
+  }
+
+  #pesquisa input {
+    width: 100%;
+  }

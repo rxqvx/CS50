@@ -1,0 +1,31 @@
+sort1 uses: bubble sort
+
+How do you know?: The algorithm considers the very large and complex dataset as input and compared to others it has a longer response time.
+
+sort2 uses: merge sort
+
+How do you know?: Merge sort is much more complex, but much faster compared to other sorting algorithms,
+by the tests performed, we can see that it is much faster than sort1 and sort2
+
+sort3 uses: selection sort
+
+How do you know?: the time complexity of an algorithm is the same in the worst and best case scenarios. it is faster compared to sort1,
+however the best scenario would be sort2 has a lower response time
+
+
+tests
+
+random5000
+sort1=0.074s
+sort2=0.041s
+sort3=0.049
+
+reversed5000
+sort1=0.074s
+sort2=0.027s
+sort3=0.048
+
+sorted5000
+sort1=0.067
+sort2=0.023
+sort3=0.047s
